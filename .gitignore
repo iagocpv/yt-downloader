@@ -1,0 +1,18 @@
+# Arquivos de build e distribuição
+build/
+dist/
+*.exe
+
+# Arquivos de cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes virtuais
+venv/
+env/
+.env/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
